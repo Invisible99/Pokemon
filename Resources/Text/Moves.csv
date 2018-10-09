@@ -1,0 +1,166 @@
+Pound,1,0,0,0,35,40,1,TRUE
+Karate Chop,3,0,0,0,25,50,1,TRUE
+Double Slap,1,0,2,0,10,15,0.85,TRUE
+Comet Punch,1,0,2,0,15,18,0.85,TRUE
+Mega Punch,1,0,0,0,20,80,0.85,TRUE
+Pay Day,1,0,0,0,20,40,1,TRUE
+Fire Punch,2,0,1,2,15,75,1,TRUE
+Ice Punch,12,0,1,5,15,75,1,TRUE
+Thunder Punch,8,0,1,2,15,75,1,TRUE
+Scratch,1,0,0,0,35,40,1,TRUE
+Vice Grip,1,0,0,0,30,55,1,TRUE
+Guillotine,1,0,0,0,5,60,1,TRUE
+Razor Wind,1,1,0,0,10,80,1,TRUE
+Swords Dance,1,2,0,0,20,10,1,TRUE
+Cut,1,0,0,0,30,50,0.95,TRUE
+Gust,5,1,0,0,35,40,1,TRUE
+Wing Attack,5,0,0,0,35,60,1,TRUE
+Whirlwind,1,2,0,0,20,40,0.5,TRUE
+Fly,5,0,0,0,15,90,0.95,TRUE
+Bind,1,0,0,0,20,15,0.85,TRUE
+Slam,1,0,0,0,20,80,0.75,TRUE
+Vine Whip,6,0,0,0,25,45,1,TRUE
+Stomp,1,0,0,0,20,65,1,TRUE
+Double Kick,3,0,2,0,30,30,1,TRUE
+Mega Kick,1,0,0,0,5,120,0.75,TRUE
+Jump Kick,3,0,0,0,10,100,0.95,TRUE
+Rolling Kick,3,0,0,0,15,60,0.85,TRUE
+Sand Attack,9,2,0,0,15,30,1,TRUE
+Headbutt,1,0,0,0,15,70,1,TRUE
+Horn Attack,1,0,0,0,25,65,1,TRUE
+Fury Attack,1,0,2,0,20,15,0.85,TRUE
+Horn Drill,1,0,0,0,5,100,0.2,TRUE
+Tackle,1,0,0,0,35,40,1,TRUE
+Body Slam,1,0,0,0,15,85,1,TRUE
+Wrap,1,0,0,0,20,15,0.9,TRUE
+Take Down,1,0,0,0,20,90,0.85,TRUE
+Thrash,1,0,0,0,10,120,1,TRUE
+Double-Edge,1,0,0,0,15,120,1,TRUE
+Tail Whip,1,2,2,0,30,20,1,TRUE
+Poison Sting,7,0,0,0,35,15,1,TRUE
+Twineedle,13,0,2,0,20,25,1,TRUE
+Pin Missile,13,0,2,0,20,25,0.95,TRUE
+Leer,1,2,0,0,30,10,1,TRUE
+Bite,16,0,0,0,25,60,1,TRUE
+Growl,1,2,0,0,40,40,1,TRUE
+Roar,1,2,0,0,20,10,1,TRUE
+Sing,1,2,0,0,15,15,0.55,TRUE
+Supersonic,1,2,0,0,20,20,0.55,TRUE
+Sonic Boom,1,1,0,0,20,25,0.9,TRUE
+Disable,1,2,0,0,20,30,1,TRUE
+Acid,7,1,0,0,30,40,1,TRUE
+Ember,2,1,0,0,25,40,1,TRUE
+Flamethrower,2,1,0,0,15,90,1,TRUE
+Mist,12,2,0,0,30,80,0.4,TRUE
+Water Gun,4,1,0,0,25,40,1,TRUE
+Hydro Pump,4,1,0,0,5,110,0.8,TRUE
+Surf,4,1,0,0,15,90,1,TRUE
+Ice Beam,12,1,0,0,10,90,1,TRUE
+Blizzard,12,1,0,0,5,110,0.7,TRUE
+Psybeam,10,1,0,0,20,65,1,TRUE
+Bubble Beam,4,1,0,0,20,65,1,TRUE
+Aurora Beam,12,1,0,0,20,65,1,TRUE
+Hyper Beam,1,1,0,0,5,150,0.9,TRUE
+Peck,5,0,0,0,35,35,1,TRUE
+Drill Peck,5,0,0,0,20,80,1,TRUE
+Submission,3,0,0,0,20,80,0.8,TRUE
+Low Kick,3,0,0,0,20,0,1,TRUE
+Counter,3,0,0,0,20,0,1,TRUE
+Seismic Toss,3,0,0,0,20,0,1,TRUE
+Strength,1,0,0,0,15,80,1,TRUE
+Absorb,6,1,0,0,25,20,1,TRUE
+Mega Drain,6,1,0,0,15,40,1,TRUE
+Leech Seed,6,2,0,0,10,0,0.9,TRUE
+Growth,1,2,0,0,20,0,0,TRUE
+Razor Leaf,6,0,0,0,25,55,0.95,TRUE
+Solar Beam,6,1,0,0,10,120,1,TRUE
+Poison Powder,7,2,0,0,35,0,0.75,TRUE
+Stun Spore,6,2,0,0,30,0,0.75,TRUE
+Sleep Powder,6,2,0,0,15,0,0.75,TRUE
+Petal Dance,6,1,0,0,10,120,1,TRUE
+String Shot,13,2,0,0,40,0,0.95,TRUE
+Dragon Rage,14,1,0,0,10,0,1,TRUE
+Fire Spin,2,1,0,0,15,35,0.85,TRUE
+Thunder Shock,8,1,0,0,30,40,1,TRUE
+Thunderbolt,8,1,0,0,15,90,1,TRUE
+Thunder Wave,8,2,0,0,20,0,0.9,TRUE
+Thunder,8,1,0,0,10,110,0.7,TRUE
+Rock Throw,11,0,0,0,15,50,0.9,TRUE
+Earthquake,9,0,0,0,10,100,1,TRUE
+Fissure,9,0,0,0,5,0,0,TRUE
+Dig,9,0,0,0,10,80,1,TRUE
+Toxic,7,2,0,0,10,0,0.9,TRUE
+Confusion,10,1,0,0,25,50,1,TRUE
+Psychic,10,1,0,0,10,90,1,TRUE
+Hypnosis,10,2,0,0,20,0,0.6,TRUE
+Meditate,10,2,0,0,40,0,0,TRUE
+Agility,10,2,0,0,30,0,0,TRUE
+Quick Attack,1,0,0,0,30,40,1,TRUE
+Rage,1,0,0,0,20,20,1,TRUE
+Teleport,10,2,0,0,20,0,0,TRUE
+Night Shade,15,1,0,0,15,0,1,TRUE
+Mimic,1,2,0,0,10,0,0,TRUE
+Screech,1,2,0,0,40,0,0.85,TRUE
+Double Team,1,2,0,0,15,0,0,TRUE
+Recover,1,2,0,0,10,0,0,TRUE
+Harden,1,2,0,0,30,0,0,TRUE
+Minimize,1,2,0,0,10,0,0,TRUE
+Smokescreen,1,2,0,0,20,0,1,TRUE
+Confuse Ray,15,2,0,0,10,0,1,TRUE
+Withdraw,4,2,0,0,40,0,0,TRUE
+Defense Curl,1,2,0,0,40,0,0,TRUE
+Barrier,10,2,0,0,20,0,0,TRUE
+Light Screen,10,2,0,0,30,0,0,TRUE
+Haze,12,2,0,0,30,0,0,TRUE
+Reflect,10,2,0,0,20,0,0,TRUE
+Focus Energy,1,2,0,0,30,0,0,TRUE
+Bide,1,0,0,0,10,0,0,TRUE
+Metronome,1,2,0,0,10,0,0,TRUE
+Mirror Move,5,2,0,0,20,0,0,TRUE
+Self-Destruct,1,0,0,0,5,200,1,TRUE
+Egg Bomb,1,0,0,0,10,100,0.75,TRUE
+Lick,15,0,0,0,30,30,1,TRUE
+Smog,7,1,0,0,20,30,0.7,TRUE
+Sludge,7,1,0,0,20,65,1,TRUE
+Bone Club,9,0,0,0,20,65,0.85,TRUE
+Fire Blast,2,1,0,0,5,110,0.85,TRUE
+Waterfall,4,0,0,0,15,80,1,TRUE
+Clamp,4,0,0,0,15,35,0.85,TRUE
+Swift,1,1,0,0,20,60,0,TRUE
+Skull Bash,1,0,0,0,10,130,1,TRUE
+Spike Cannon,1,0,2,0,15,20,1,TRUE
+Constrict,1,0,0,0,35,10,1,TRUE
+Amnesia,10,2,0,0,20,0,0,TRUE
+Kinesis,10,2,0,0,15,0,0.8,TRUE
+Soft-Boiled,1,2,0,0,10,0,0,TRUE
+High Jump Kick,3,0,0,0,10,130,0.9,TRUE
+Glare,1,2,0,0,30,0,1,TRUE
+Dream Eater,10,1,0,0,15,100,1,TRUE
+Poison Gas,7,2,0,0,40,0,0.9,TRUE
+Barrage,1,0,2,0,20,15,0.85,TRUE
+Leech Life,13,0,0,0,10,80,1,TRUE
+Lovely Kiss,1,2,0,0,10,0,0.75,TRUE
+Sky Attack,5,0,0,0,5,140,0.9,TRUE
+Transform,1,2,0,0,10,0,0,TRUE
+Bubble,4,1,0,0,30,40,1,TRUE
+Dizzy Punch,1,0,0,0,10,70,1,TRUE
+Spore,6,2,0,0,15,0,1,TRUE
+Flash,1,2,0,0,20,0,1,TRUE
+Psywave,10,1,0,0,15,0,1,TRUE
+Splash,1,2,0,0,40,0,0,TRUE
+Acid Armor,7,2,0,0,20,0,0,TRUE
+Crabhammer,4,0,0,0,10,100,0.9,TRUE
+Explosion,1,0,0,0,5,250,1,TRUE
+Fury Swipes,1,0,2,0,15,18,0.8,TRUE
+Bonemerang,9,0,2,0,10,50,0.9,TRUE
+Rest,10,2,0,0,10,0,0,TRUE
+Rock Slide,11,0,0,0,10,75,0.9,TRUE
+Hyper Fang,1,0,0,0,15,80,0.9,TRUE
+Sharpen,1,2,0,0,30,0,0,TRUE
+Conversion,1,2,0,0,30,0,0,TRUE
+Tri Attack,1,1,0,0,10,80,1,TRUE
+Super Fang,1,0,0,0,10,0,0.9,TRUE
+Slash,1,0,0,0,20,70,1,TRUE
+Substitute,1,2,0,0,10,0,0,TRUE
+Struggle,1,0,0,0,1,50,0,TRUE
+Sketch,1,2,0,0,1,0,0,TRUE

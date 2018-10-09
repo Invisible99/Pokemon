@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Pokemon">
+      <UniqueIdentifier>{a245da70-2742-4fd0-aa25-2c9128c880cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Map">
+      <UniqueIdentifier>{67108788-300f-4d2c-8fc1-1424df1a717a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Battle">
+      <UniqueIdentifier>{2d3d5b21-adda-49b1-8388-79f1308edf45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Moves">
+      <UniqueIdentifier>{e159c83f-00c4-440c-97ad-707d503e94a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Text">
+      <UniqueIdentifier>{3fe3ef38-b352-41a1-bd09-f35ca6f733ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{f833566f-c539-4a60-b0eb-da87ac5c3667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Font">
+      <UniqueIdentifier>{862792ca-7bfc-4c7b-8e67-5a279d096862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Audio">
+      <UniqueIdentifier>{a7bd3a1c-042e-4e06-a547-4a3802157a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework Files\Sound">
+      <UniqueIdentifier>{180c07b8-084d-47a9-96c6-6357eba73ca2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix2x3.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2f.h">
+      <Filter>Framework Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PokemonType.h">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClInclude>
+    <ClInclude Include="Pokemon.h">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClInclude>
+    <ClInclude Include="Split.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Source Files\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="PokemonManager.h">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>Source Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="TeamPokemon.h">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundStream.h">
+      <Filter>Framework Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>Source Files\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveManager.h">
+      <Filter>Source Files\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemie.h">
+      <Filter>Source Files\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="KnowMove.h">
+      <Filter>Source Files\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="StatusEffects.h">
+      <Filter>Source Files\Moves</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffect.h">
+      <Filter>Framework Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Evolve.h">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix2x3.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structs.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2f.cpp">
+      <Filter>Framework Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PokemonType.cpp">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokemon.cpp">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="PokemonManager.cpp">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source Files\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="TeamPokemon.cpp">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundStream.cpp">
+      <Filter>Framework Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>Source Files\Moves</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveManager.cpp">
+      <Filter>Source Files\Moves</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemie.cpp">
+      <Filter>Source Files\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="KnowMove.cpp">
+      <Filter>Source Files\Moves</Filter>
+    </ClCompile>
+    <ClCompile Include="StatusEffects.cpp">
+      <Filter>Source Files\Moves</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffect.cpp">
+      <Filter>Framework Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Evolve.cpp">
+      <Filter>Source Files\Pokemon</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text\FirstCity_House.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\FirstCity_Map.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\FirstCity_Unwalkable.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Moves.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Pokemon.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Route3_Grass.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Route3_Ledge.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Route3_Map.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+    <None Include="Resources\Text\Route3_Unwalkable.csv">
+      <Filter>Resource Files\Text</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Images\Battle.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\CharBoy.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Npc.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\PokemonSprite.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Textbox.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\TileHouses.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\TileWorld.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\Font\pkmnfl.ttf">
+      <Filter>Resource Files\Font</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\Audio\BattleMusic.mp3">
+      <Filter>Resource Files\Audio</Filter>
+    </Media>
+    <Media Include="Resources\Audio\RouteMusic.mp3">
+      <Filter>Resource Files\Audio</Filter>
+    </Media>
+    <Media Include="Resources\Audio\Scratch.wav">
+      <Filter>Resource Files\Audio</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
